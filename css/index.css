@@ -1,14 +1,39 @@
+/* --------- HTML, BODY --------- */
+
 html, body {font-family: Avenir, "Helvetica Neue", sans-serif;}
 html {font-size: 16px;}
 body {font-size: 62.5%;}
 
 p {letter-spacing: 0.02rem;}
 
+
+/* --------- INTRODUCTION --------- */
 #introduction {background: #FFFFFF; margin: 10%;}
     #introduction h1 {text-align: center; font-weight: bold; font-size: 3.2rem;}
     #introduction p {text-align: center; font-size: 2.4rem;}
 
+/* --------- WORK --------- */
+.work-contact-container {background: #000000; color: #FFFFFF;}
+
+#work {display: flex; flex-direction: row; padding: 0 1.6rem;}
+    .work__grid {flex: 1; margin: 5.6rem 2.4rem;}
+        .work__snippet {padding: 0 0 5.6rem 0; display: flex; flex-direction: column;}
+            .work__snippet__img {text-align: center;}
+            .work__snippet__img img {/*max-height: 100%; max-width: 100%;*/ width: 100%; border-radius: 0.4rem;}
+            .work__snippet__tag {margin: 1.6rem 0 0; font-size: 1.2rem; font-weight: bold; letter-spacing: 0.24rem;}
+            .work__snippet h2 {font-weight: normal; letter-spacing: 0.08rem;}
+            .work__snippet__description {font-size: 1.6rem;}
+
 
 /* --------- BUTTONS, LINKS --------- */
+#contact {display: flex; flex-direction: row; margin: 0 4.0rem; padding: 0 0 5.6rem;}
+    .contact__description {flex: 1; font-size: 1.6rem; background-color: rgba(255,255,255,0.3); padding: 1.6rem 2.4rem; margin: 0 2.4rem;}
+    .contact__form {flex: 1; margin: 0 0 0 2.4rem;}
+
+
+
+/* --------- BUTTONS, LINKS, INPUTS --------- */
 .vocab {letter-spacing: 0.1rem; border-bottom: 1px solid #333333;}
 .linkout {color: mediumpurple;}
+
+input[type="text"] {font-family: Avenir, "Helvetica Neue", sans-serif; font-size: 1.6rem; color: #000000; border: none; padding: 1.2rem; margin: 1.2rem 0; width: 100%;}
