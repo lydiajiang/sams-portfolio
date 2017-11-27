@@ -1,0 +1,14 @@
+html, body {font-family: Avenir, "Helvetica Neue", sans-serif;}
+html {font-size: 16px;}
+body {font-size: 62.5%;}
+
+p {letter-spacing: 0.02rem;}
+
+#introduction {background: #FFFFFF; margin: 10%;}
+    #introduction h1 {text-align: center; font-weight: bold; font-size: 3.2rem;}
+    #introduction p {text-align: center; font-size: 2.4rem;}
+
+
+/* --------- BUTTONS, LINKS --------- */
+.vocab {letter-spacing: 0.1rem; border-bottom: 1px solid #333333;}
+.linkout {color: mediumpurple;}
