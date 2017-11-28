@@ -18,12 +18,15 @@
 
 <body>
     <!--Welcome Inspectors! Take a look around under the hood.-->
+    <header id="header">
+        <div id="logo"><a href="index.html"><img src="img/icon-graphics/logo.svg" alt="Lunarian Logo"></a></div>
+    </header>
 
     <section id="introduction">
         <h1>Greetings from space!</h1>
-        <p>My name is Sam a.k.a <a class="vocab">THE LUNARIAN</a></p>
+        <p>My name is Sam a.k.a <a id="lunarian" class="vocab">THE LUNARIAN</a></p>
         <br>
-        <p>A <a class="linkout">Product Designer</a> currently working with Allstate in Chicago on the moon. In my free time, I co-founded a popular <a class="linkout">UX meetup</a>, work on neat side projects, and make <a class="linkout">posters</a>. Even from the moon, I aspire to change the world. Say <a class="linkout">hello</a>!</p>
+        <p>A <a class="linkout" href="https://www.linkedin.com/in/samgensburg/">Product Designer</a> currently working with Allstate <s>in Chicago</s> on the moon. In my free time, I co-founded a popular <a class="linkout" href="https://www.meetup.com/andUXCHI/?_cookie-check=-UWdp4JUZAKT2t1y">UX meetup</a>, work on neat side projects, and make <a class="linkout" href="https://www.behance.net/SamGensburg">posters</a>. Even from the moon, I aspire to change the world. Say <a class="linkout" href="#contact">hello</a>!</p>
     </section>
 
     <div class="work-contact-container"><!--Note for Inspectors: This contains #work and #contact for a smooth transition.-->
@@ -93,16 +96,18 @@
 
     </div><!--work-contact-container-->
 
-<div class="modal__container">
+<div id="modal__container">
     <div class="modal">
-        <div class="exit-modal">x</div>
-        <p><b>loonerean</b> &#8212; NOUN (in science fiction)</p>
-        <img src="" alt="profile picture">
+        <div id="modal__exit">x</div>
+        <h2>LUNARIAN</h2>
+        <p><b>lo͞oˈnerēən</b> &#8212; NOUN (in science fiction)</p>
+        <img src="img/images/profile.png" alt="profile picture">
         <p>Earthlings are interesting creatures. Living on the moon makes it easy to see things at a <emphasis>macro</emphasis> level. Investigating subjects while completely removing myself from all context. I find both <emphasis>Anthropology & Psychology</emphasis> fascinating and endeavor to understand the root reasons/motivations behind a user's actions. It's always better to see than to be told.</p>
 
-        <p>While I'm able to zoom in on as something as granular as a button's placement, I can also go way out to establish the system in place. This can take the form of a <emphasis>Strategist</emphasis> or <emphasis>Service Designer.</emphasis></p>
+        <p>While I'm able to zoom in on as something as granular as a button's placement, I can also go way out to establish the system in place. This can take the form of a <emphasis>Strategist</emphasis> or <emphasis>Service Designer</emphasis>.</p>
     </div>
 </div>
 
     </body>
+    <script src="js/index.js"></script>
 </html>
