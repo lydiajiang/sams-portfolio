@@ -4,7 +4,7 @@ html, body {font-family: Avenir, "Helvetica Neue", sans-serif;}
 html {font-size: 16px; background: #FFF url("../img/icon-graphics/moon.png") no-repeat top right; background-size: 20.0rem;}
 body {font-size: 62.5%;}
 
-p {letter-spacing: 0.02rem;}
+p {letter-spacing: 0.02rem; font-size: 1.6rem;}
 emphasis {font-weight: 500;}
 b {font-weight: bold;}
 s {text-decoration: line-through; color: #9B9B9B;}
@@ -13,49 +13,55 @@ s {text-decoration: line-through; color: #9B9B9B;}
 /* --------- HEADER --------- */
 .header {width: 100%; margin: 0;}
     #logo {padding: 1.6rem;}
-        #logo img {width: 160px;}
+        #logo img {width: 10.0rem;}
         #logo img:hover {cursor: pointer; opacity: 0.5;}
 
 /* --------- INTRODUCTION --------- */
-#introduction {margin: 2.4rem 15% 10%;}
-    #introduction h1 {text-align: center; font-weight: bold; font-size: 2.2rem;}
-    #introduction p {text-align: center; font-size: 2.2rem;}
+#introduction {margin: 2.4rem 18% 10%;}
+    #introduction h1 {text-align: center; font-weight: bold; font-size: 2.2rem; line-height: 2.2rem; margin: 0;}
+    #introduction p {text-align: center; font-size: 2.2rem; margin: 0.8rem 0 0 0;}
+    .introduction__description {margin: 1.6rem 0;}
+        .smallcontent {font-size: 1.6rem;}
 
 /* --------- WORK --------- */
 .work-contact-container {background: #000000; color: #FFFFFF;}
 
-#work {display: flex; flex-direction: row; padding: 0 1.6rem;}
+#work {display: flex; flex-direction: row; padding: 0 1.6rem; margin: 0 12% 0;}
     .work__grid {flex: 1; margin: 5.6rem 2.4rem;}
         .work__snippet {padding: 0 0 5.6rem 0; display: flex; flex-direction: column;}
             .work__snippet__img {text-align: center;}
             .work__snippet__img img {/*max-height: 100%; max-width: 100%;*/ width: 100%; border-radius: 0.4rem;}
-            .work__snippet__tag {margin: 1.6rem 0 0; font-size: 1.2rem; font-weight: bold; letter-spacing: 0.24rem;}
-            .work__snippet h2 {font-weight: normal; letter-spacing: 0.08rem;}
-            .work__snippet__description {font-size: 1.6rem;}
+            .work__snippet__tag {margin: 1.6rem 0 0.8rem 0; font-size: 1.0rem; font-weight: bold; letter-spacing: 0.24rem;}
+            .work__snippet h3 {font-weight: normal; letter-spacing: 0.1rem; font-size: 2.2rem; margin: 0.8rem 0;}
+            .work__snippet p {font-size: 1.2rem; margin: 0; line-height: 1.8rem;}
 
 
 /* --------- BUTTONS, LINKS --------- */
-#contact {display: flex; flex-direction: row; margin: 0 4.0rem; padding: 0 0 5.6rem;}
-    .contact__description {flex: 1; font-size: 1.6rem; background-color: rgba(255,255,255,0.3); padding: 1.6rem 2.4rem; margin: 0 2.4rem;}
+#contact {display: flex; flex-direction: row; margin: 0 12% 0; padding: 0 0 5.6rem;}
+    #contact h2 {font-size: 1.6rem;}
+    #contact p {font-size: 1.2rem;}
+    .contact__description {flex: 1; background-color: rgba(255,255,255,0.3); padding: 1.6rem 2.4rem; margin: 0 2.4rem;}
     .contact__form {flex: 1; margin: 0 0 0 2.4rem;}
 
 
 /* --------- MODAL --------- */
-#modal__container {width: 100%; height: 100%; font-size: 1.6rem; position: fixed; top: 0; margin: auto; text-align: center; display: none; justify-content: center; background-color: rgba(0,0,0,0.5); overflow: auto;}
+#modal__container {width: 100%; height: 100%; position: fixed; top: 0; margin: auto; text-align: center; display: none; justify-content: center; background-color: rgba(0,0,0,0.5); overflow: auto;}
     .modal {background-color: #FFFFFF; width: 60%; padding: 2.4rem 2.4rem 3.2rem; margin: 5.6rem auto;}
+        .modal h2 {font-size: 1.6rem;}
+        .modal p {font-size: 1.2rem;}
         .modal img {width: 14.0rem;}
-    #modal__exit {text-align: left;}
+    #modal__exit {text-align: left; font-size: 1.6rem;}
         #modal__exit:hover {cursor: pointer; opacity: 0.5;}
 
 /* --------- BUTTONS, LINKS, INPUTS --------- */
-a.vocab {letter-spacing: 0.1rem; border-bottom: 1px solid #333333;}
+a.vocab {letter-spacing: 0.1rem; border-bottom: 0.1rem solid #333333;}
     a.vocab:hover {color: #BE00E3; cursor: pointer;}
 a.linkout {text-decoration: none; color: #BE00E3;}
     a.linkout:hover {color: #7D0096;}
 
-input[type="text"], textarea {font-family: Avenir, "Helvetica Neue", sans-serif; font-size: 1.6rem; color: #000000; border: none; padding: 1.2rem; margin: 1.2rem 0; width: 100%;}
+input[type="text"], textarea {font-family: Avenir, "Helvetica Neue", sans-serif; font-size: 1.2rem; color: #000000; border: none; padding: 1.2rem; margin: 1.2rem 0; width: 100%;}
     textarea {height: 9.6rem;}
 
-input[type="submit"] {border: 2px solid white; line-height: 0; font-family: Avenir, "Helvetica Neue", sans-serif; font-size: 1.2rem; padding: 1.2rem;}
+input[type="submit"] {border: 0.2rem solid white; line-height: 0; font-family: Avenir, "Helvetica Neue", sans-serif; font-size: 1.2rem; padding: 1.2rem;}
 
 
