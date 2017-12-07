@@ -4,12 +4,13 @@ if(!isset($_POST['submit']))
 	//This page should not be accessed directly. Need to submit the form.
 	echo "error; you need to submit the form!";
 }
+
 $subject = $_POST['subject'];
 $visitor_email = $_POST['email'];
 $message = $_POST['message'];
 
 //Validate first
-if(empty($subject)||empty($visitor_email))
+if(empty($message)||empty($visitor_email))
 {
     echo "Name and email are mandatory!";
     exit;
@@ -21,7 +22,7 @@ if(IsInjected($visitor_email))
     exit;
 }
 
-$email_from = '$visitor_email';//<== update the email address
+$email_from = 'lydia.b.jiang@gmail.com';//<== update the email address
 $email_subject = "New Form submission";
 $email_body = "You have received a new message from the user $visitor_email.\n".
     "Here is the message:\n $message".
