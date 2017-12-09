@@ -11,6 +11,11 @@
         <link rel="apple-touch-icon" href="icon.png">
         <!-- Place favicon.ico in the root directory -->
 
+        <script
+            src="https://code.jquery.com/jquery-3.2.1.min.js"
+            integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+            crossorigin="anonymous">
+        </script>
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
         <link rel="stylesheet" href="css/index.css">
@@ -96,11 +101,12 @@
         <div class="contact__description">
             <h2>Send a subspace message</h2>
 
-            <p>Thanks for taking a flyby! If you're interested in knowing more, you can send a message here or email me at GensburgDesign@Gmail.com.  Always interested in discussing ideas and solving problems.</p>
+            <p>Thanks for taking a flyby! If you're interested in knowing more, you can send a message here or email me at GensburgDesign@gmail.com.  Always interested in discussing ideas and solving problems.</p>
         </div>
 
         <div class="contact__form">
-            <form method="post" name="myemailform" action="contact-form-handler.php">
+            <div id="form-messages"></div>
+            <form id="ajax-contact" method="post" name="myemailform" action="php/mailer.php">
                 <input type="text" name="email" placeholder="your email address">
                 <br>
                 <input type="text" name="subject" placeholder="subject">

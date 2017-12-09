@@ -1,7 +1,7 @@
 /* --------- HTML, BODY, P, TEXT --------- */
 
 html, body {font-family: Avenir, "Helvetica Neue", sans-serif;}
-html {font-size: 16px; background: #FFF url("../img/icon-graphics/moon.png") no-repeat top right; background-size: 20.0rem; color: #333333;}
+html {font-size: 16px; background: #FFF url("../img/icon-graphics/moon.png") no-repeat top right; background-size: 25.0rem; color: #333333;}
 body {font-size: 62.5%;}
 
 @media all and (max-width: 800px) {
@@ -35,7 +35,7 @@ s {text-decoration: line-through; color: #9B9B9B;}
 }
 
 /* --------- WORK --------- */
-.work-contact-container {background: #000000; color: #FFFFFF;}
+.work-contact-container {background: #000000 url("../img/images/bg-moon.jpg") no-repeat center bottom; color: #FFFFFF; background-size: contain;}
 
 #work {display: flex; flex-direction: row; padding: 0 1.6rem; margin: 0 12% 0;}
     .work__grid {flex: 1; margin: 5.6rem 2.4rem;}
@@ -54,6 +54,7 @@ s {text-decoration: line-through; color: #9B9B9B;}
 
 /* --------- BUTTONS, LINKS --------- */
 #contact {display: flex; flex-direction: row; margin: 0 12% 0; padding: 0 0 5.6rem;}
+    #form-messages {font-size: 1.2rem;}
     #contact p {font-size: 1.2rem;}
     .contact__description {flex: 1; background-color: rgba(255,255,255,0.3); padding: 1.6rem 2.4rem; margin: 0 2.4rem;}
     .contact__form {flex: 1; margin: 0 0 0 2.4rem;}
