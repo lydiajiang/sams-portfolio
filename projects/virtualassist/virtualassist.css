@@ -1,0 +1,10 @@
+/* --------- HEADLINE --------- */
+.headline {background: #FFF url("img/hero-va.jpg") no-repeat top center; background-size: cover;}
+
+/* --------- NUMBERED PARAGRAPHS AND NEXT STEPS --------- */
+
+.column--left p.number:first-child:before {content: url("img/numbers-01.svg");}
+.column--left p.number:nth-child(2):before {content: url("img/numbers-02.svg");}
+
+.column--right p.number:first-child:before {content: url("img/numbers-03.svg");}
+.column--right p.number:nth-child(2):before {content: url("img/numbers-04.svg");}

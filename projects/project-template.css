@@ -1,0 +1,51 @@
+/* --------- HEADLINE --------- */
+.headline {padding: 14.0rem 0 30.0rem 0;}
+    .headline:after {content: ""; display: table; clear: both;}
+    .headline h1 {color: #FFF; font-weight: bold; background: #000000; padding: 0rem 3.2rem; font-size: 6.0rem; display: inline-block; float: left; clear: left; margin: 0;}
+    .headline h2 {color: #FFF; font-weight: normal; background: #000000; padding: 0rem 3.2rem; font-size: 3.2rem; display: inline-block; float: left; clear: left; margin: 0.8rem 0;}
+
+/* --------- HEADER --------- */
+#header {position: fixed; margin: 0;}
+    #logo {padding: 3.2rem 0 0 3.2rem;}
+        #logo img {width: 12.0rem;}
+        #logo img:hover {cursor: pointer; opacity: 0.5;}
+
+/* --------- CONTAINER FOR CONTENT BELOW HEADLINE --------- */
+.content {max-width: 90.0rem; width: 90%; margin: 6.0rem auto 12.0rem;}
+    .content h3 {font-size: 4.0rem; margin: 6.0rem 0 3.2rem 0; font-weight: normal;}
+    .content p {font-size: 1.8rem; line-height: 2.6rem; margin: 2.4rem 0;}
+    .content ul, ol {font-size: 1.8rem; line-height: 2.6rem;}
+        .content ol li {margin: 0 0 1.8rem;}
+
+/* --------- NUMBERED PARAGRAPHS AND NEXT STEPS --------- */
+p.number {display: flex;}
+
+.column--left p.number:first-child:before, .column--left p.number:nth-child(2):before, .column--right p.number:first-child:before, .column--right p.number:nth-child(2):before {float: left; margin-right: 1.6rem;}
+
+ul.nextsteps {font-size: 2.4rem; line-height: 5.0rem;}
+
+.no-header {margin: 6.0rem 0 0;}
+
+/* --------- COMPONENTS --------- */
+.column {}
+    .column img {width: 100%;}
+    .column__two p:last-child, .column__two__smallleft p:last-child, .column__two__smallright p:last-child {margin-bottom: 0;}
+/* This prevents the last paragraph's spacing from interfering with spacing between column__containers. */
+    .column p:first-child {margin-top: 0;}
+
+.column__one {}
+
+.column__two {display: flex;}
+    .column__two .column--left {flex: 1; margin-right: 2.0rem;}
+    .column__two .column--right {flex: 1; margin-left: 2.0rem;}
+
+.column__two__smallright {display: flex;}
+    .column__two__smallright .column--left {flex: 2; margin-right: 2.0rem;}
+    .column__two__smallright .column--right {flex: 1; margin-left: 2.0rem;}
+
+.column__two__smallleft {display: flex;}
+    .column__two__smallleft .column--left {flex: 1; margin-right: 2.0rem;}
+    .column__two__smallleft .column--right {flex: 2; margin-left: 2.0rem;}
+
+
+

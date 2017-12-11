@@ -10,6 +10,10 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+html, body {font-family: Avenir, "Helvetica Neue", sans-serif;}
+html {font-size: 62.5%; background: #FFF url("../img/icon-graphics/moon.png") no-repeat top right; background-size: 25.0rem; color: #333333;}
+body {font-size: 1.6rem;}
+
 @font-face {
     font-family: Avenir;
     src: url(/css/fonts/Avenir-Book.ttf);
@@ -24,7 +28,6 @@
 
 html {
     color: #222;
-    font-size: 1em;
     line-height: 1.4;
 }
 
