@@ -2,38 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4ecb2c6-ef2a-45e6-b13c-6bb62b85fe3f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/hero-tmobile.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/actions.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/hero-va.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/problem.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/img/logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/tmobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/tmobile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/numbers-01.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/numbers-02.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/numbers-03.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/img/numbers-04.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/virtualassist/virtualassist.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/form-to-email.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/icon-graphics/logo-whitebackground.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/images/hero-va.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/virtualassist.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/virtual-assist.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projects/illustrations/illustrations.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/graphic-tmobile8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/hero-tmobile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/img/logo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/illustrations/tmobile.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/moxyhotel/img/hero-moxy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/tmobile/img/graphic-tmobile3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/tmobile/img/hero-tmobile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/projects/virtualassist/img/hero-va.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/projects/illustrations/tmobile.html" afterPath="$PROJECT_DIR$/projects/illustrations/illustrations.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/images/thumbnail-frenchtoast.jpg" afterPath="$PROJECT_DIR$/img/images/thumbnail-frenchtoast.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/moxyhotel/img/graphic-moxy.jpg" afterPath="$PROJECT_DIR$/projects/moxyhotel/img/graphic-moxy.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css" afterPath="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html" afterPath="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/tmobile/tmobile.css" afterPath="$PROJECT_DIR$/projects/tmobile/tmobile.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/tmobile/tmobile.html" afterPath="$PROJECT_DIR$/projects/tmobile/tmobile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/virtualassist/img/logo.svg" afterPath="$PROJECT_DIR$/projects/virtualassist/img/logo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" afterPath="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/virtualassist/virtualassist.html" afterPath="$PROJECT_DIR$/projects/virtualassist/virtualassist.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,33 +48,51 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="tmobile.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.html">
+      <file leaf-file-name="virtualassist.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/virtualassist/virtualassist.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#p#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="project-template.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/projects/project-template.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+            <state relative-caret-position="350">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tmobile.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.css">
+      <file leaf-file-name="tmobile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="401">
+              <caret line="39" column="14" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="39" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moxyhotel.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="434">
+              <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-template.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/projects/project-template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -133,15 +148,19 @@
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/projects/virtualassist.css" />
         <option value="$PROJECT_DIR$/projects/virtualassist.html" />
-        <option value="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/projects/project-template.css" />
+        <option value="$PROJECT_DIR$/projects/southernbells/southernbells.css" />
+        <option value="$PROJECT_DIR$/projects/illustrations/illustrations.css" />
         <option value="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css" />
         <option value="$PROJECT_DIR$/projects/tmobile/tmobile.css" />
-        <option value="$PROJECT_DIR$/projects/virtualassist/virtualassist.html" />
-        <option value="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html" />
+        <option value="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" />
+        <option value="$PROJECT_DIR$/projects/illustrations/illustrations.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/projects/southernbells/southernbells.html" />
+        <option value="$PROJECT_DIR$/projects/virtualassist/virtualassist.html" />
         <option value="$PROJECT_DIR$/projects/tmobile/tmobile.html" />
-        <option value="$PROJECT_DIR$/projects/project-template.css" />
+        <option value="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html" />
       </list>
     </option>
   </component>
@@ -212,29 +231,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="illustrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sams-portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sams-portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="illustrations" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="moxyhotel" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -789,15 +786,16 @@
       <workItem from="1512847973696" duration="3940000" />
       <workItem from="1512864999538" duration="73000" />
       <workItem from="1512947338993" duration="14715000" />
-      <workItem from="1512965800548" duration="11746000" />
+      <workItem from="1512965800548" duration="15054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58516000" />
+    <option name="totallyTimeSpent" value="61824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -813,7 +811,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24305555" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -840,37 +838,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="85" lean-forward="false" selection-start-line="4" selection-start-column="85" selection-end-line="4" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/form-to-email.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="31" lean-forward="true" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1290">
@@ -1118,14 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/virtualassist/virtualassist.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="96" lean-forward="false" selection-start-line="1" selection-start-column="96" selection-end-line="1" selection-end-column="96" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php/mailer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1134,57 +1093,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="46" lean-forward="false" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="40" column="602" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="602" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projects/virtualassist/virtualassist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="39" column="123" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="123" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#section#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="72" column="52" lean-forward="false" selection-start-line="72" selection-start-column="52" selection-end-line="72" selection-end-column="52" />
           <folding />
         </state>
       </provider>
@@ -1197,16 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#section#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projects/illustrations/img/logo.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1215,10 +1117,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/projects/illustrations/illustrations.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="100" lean-forward="false" selection-start-line="1" selection-start-column="100" selection-end-line="1" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="47" lean-forward="false" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/virtualassist/virtualassist.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/southernbells/southernbells.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/illustrations/illustrations.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" lean-forward="false" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/southernbells/southernbells.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="33" column="30" lean-forward="false" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/projects/project-template.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="38" column="53" lean-forward="false" selection-start-line="38" selection-start-column="53" selection-end-line="38" selection-end-column="53" />
+        <state relative-caret-position="15">
+          <caret line="1" column="40" lean-forward="false" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/virtualassist/virtualassist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="40" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/tmobile/tmobile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="39" column="14" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="39" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
           <folding />
         </state>
       </provider>
