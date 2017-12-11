@@ -10,14 +10,14 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-html, body {font-family: Avenir, "Helvetica Neue", sans-serif;}
+html, body {font-family: Avenir, "Helvetica Neue", sans-serif; font-weight: 100;}
 html {font-size: 62.5%; background: #FFF url("../img/icon-graphics/moon.png") no-repeat top right; background-size: 25.0rem; color: #333333;}
 body {font-size: 1.6rem;}
 
 @font-face {
     font-family: Avenir;
-    src: url(/css/fonts/Avenir-Book.ttf);
-    font-weight: normal;
+    src: url(/css/fonts/Avenir-Light.ttf);
+    font-weight: 100;
 }
 
 @font-face {

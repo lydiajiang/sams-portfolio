@@ -35,7 +35,7 @@ s {text-decoration: line-through; color: #9B9B9B;}
             .work__snippet__img {text-align: center;}
             .work__snippet__img img {/*max-height: 100%; max-width: 100%;*/ width: 100%; border-radius: 0.4rem;}
             .work__snippet__tag {margin: 1.6rem 0 0.8rem 0; font-size: 1.0rem; font-weight: bold; letter-spacing: 0.24rem;}
-            .work__snippet h3 {font-weight: normal; letter-spacing: 0.1rem; font-size: 2.2rem; margin: 0.8rem 0;}
+            .work__snippet h3 {font-weight: 100; letter-spacing: 0.1rem; font-size: 2.2rem; margin: 0.8rem 0;}
             .work__snippet p {font-size: 1.2rem; margin: 0; line-height: 1.8rem;}
 
 

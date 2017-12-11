@@ -2,7 +2,7 @@
 .headline {padding: 14.0rem 0 30.0rem 0;}
     .headline:after {content: ""; display: table; clear: both;}
     .headline h1 {color: #FFF; font-weight: bold; background: #000000; padding: 0rem 3.2rem; font-size: 6.0rem; display: inline-block; float: left; clear: left; margin: 0;}
-    .headline h2 {color: #FFF; font-weight: normal; background: #000000; padding: 0rem 3.2rem; font-size: 3.2rem; display: inline-block; float: left; clear: left; margin: 0.8rem 0;}
+    .headline h2 {color: #FFF; font-weight: 100; background: #000000; padding: 0rem 3.2rem; font-size: 3.2rem; display: inline-block; float: left; clear: left; margin: 0.8rem 0;}
 
 /* --------- HEADER --------- */
 #header {position: fixed; margin: 0;}
@@ -12,7 +12,7 @@
 
 /* --------- CONTAINER FOR CONTENT BELOW HEADLINE --------- */
 .content {max-width: 90.0rem; width: 90%; margin: 6.0rem auto 12.0rem;}
-    .content h3 {font-size: 4.0rem; margin: 6.0rem 0 3.2rem 0; font-weight: normal;}
+    .content h3 {font-size: 4.0rem; margin: 6.0rem 0 3.2rem 0; font-weight: 100;}
     .content p {font-size: 1.8rem; line-height: 2.6rem; margin: 2.4rem 0;}
     .content ul, ol {font-size: 1.8rem; line-height: 2.6rem;}
         .content ol li {margin: 0 0 1.8rem;}
