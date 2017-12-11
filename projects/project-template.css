@@ -1,3 +1,8 @@
+/* --------- RESPONSIVENESS --------- */
+@media all and (max-width: 650px) {
+    html {font-size: 55%;}
+}
+
 /* --------- HEADLINE --------- */
 .headline {padding: 14.0rem 0 30.0rem 0;}
     .headline:after {content: ""; display: table; clear: both;}
@@ -5,10 +10,15 @@
     .headline h2 {color: #FFF; font-weight: 100; background: #000000; padding: 0rem 3.2rem; font-size: 3.2rem; display: inline-block; float: left; clear: left; margin: 0.8rem 0;}
 
 /* --------- HEADER --------- */
-#header {position: fixed; margin: 0;}
+#header {position: fixed; margin: 0; width: 100%;}
     #logo {padding: 3.2rem 0 0 3.2rem;}
         #logo img {width: 12.0rem;}
         #logo img:hover {cursor: pointer; opacity: 0.5;}
+
+@media all and (max-width: 1224px) {
+    #header {background: #000;}
+        #logo {padding: 0.8rem 0 0.8rem 2.4rem;}
+}
 
 /* --------- CONTAINER FOR CONTENT BELOW HEADLINE --------- */
 .content {max-width: 90.0rem; width: 90%; margin: 6.0rem auto 12.0rem;}
@@ -46,6 +56,20 @@ ul.nextsteps {font-size: 2.4rem; line-height: 5.0rem;}
 .column__two__smallleft {display: flex;}
     .column__two__smallleft .column--left {flex: 1; margin-right: 2.0rem;}
     .column__two__smallleft .column--right {flex: 2; margin-left: 2.0rem;}
+
+@media all and (max-width: 650px) {
+    .column img {text-align: center;}
+
+    .column__two, .column__two__smallright, .column__two__smallleft {flex-direction: column;}
+        .column__two .column--left {margin-right: 0rem;}
+        .column__two .column--right {margin-left: 0rem; margin-top: 6.0rem;}
+
+        .column__two__smallright .column--left {margin-right: 0rem;}
+        .column__two__smallright .column--right {margin-left: 0rem; margin-top: 6.0rem;}
+
+        .column__two__smallleft .column--left {margin-right: 0rem;}
+        .column__two__smallleft .column--right {margin-left: 0rem; margin-top: 6.0rem;}
+}
 
 
 

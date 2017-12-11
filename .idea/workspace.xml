@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4ecb2c6-ef2a-45e6-b13c-6bb62b85fe3f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/project.css" afterPath="$PROJECT_DIR$/css/project.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/illustrations/illustrations.css" afterPath="$PROJECT_DIR$/projects/illustrations/illustrations.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css" afterPath="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/southernbells/img/graphic-southern.jpg" afterPath="$PROJECT_DIR$/projects/southernbells/img/graphic-southern.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/project-template.css" afterPath="$PROJECT_DIR$/projects/project-template.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/southernbells/southernbells.css" afterPath="$PROJECT_DIR$/projects/southernbells/southernbells.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/tmobile/tmobile.css" afterPath="$PROJECT_DIR$/projects/tmobile/tmobile.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" afterPath="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,11 +22,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="illustrations.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="illustrations.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/projects/illustrations/illustrations.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project-template.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projects/project-template.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -108,14 +111,14 @@
         <option value="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.html" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/css/project.css" />
-        <option value="$PROJECT_DIR$/projects/project-template.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/css/normalize.css" />
         <option value="$PROJECT_DIR$/projects/virtualassist/virtualassist.css" />
         <option value="$PROJECT_DIR$/projects/tmobile/tmobile.css" />
         <option value="$PROJECT_DIR$/projects/moxyhotel/moxyhotel.css" />
         <option value="$PROJECT_DIR$/projects/southernbells/southernbells.css" />
         <option value="$PROJECT_DIR$/projects/illustrations/illustrations.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/projects/project-template.css" />
       </list>
     </option>
   </component>
@@ -741,12 +744,12 @@
       <workItem from="1512847973696" duration="3940000" />
       <workItem from="1512864999538" duration="73000" />
       <workItem from="1512947338993" duration="14715000" />
-      <workItem from="1512965800548" duration="17179000" />
+      <workItem from="1512965800548" duration="19096000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63949000" />
+    <option name="totallyTimeSpent" value="65866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -1082,30 +1085,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projects/project-template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -1166,6 +1145,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="30" lean-forward="false" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projects/project-template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
