@@ -31,6 +31,52 @@ html {
     line-height: 1.4;
 }
 
+
+/* --------- COLUMNS --------- */
+
+.column {}
+.column img {width: 100%;}
+.column__two p:last-child, .column__two__smallleft p:last-child, .column__two__smallright p:last-child {margin-bottom: 0;}
+/* This prevents the last paragraph's spacing from interfering with spacing between column__containers. */
+.column p:first-child {margin-top: 0;}
+
+.column__one {}
+
+.column__two {display: flex;}
+.column__two .column--left {flex: 1; margin-right: 2.0rem;}
+.column__two .column--right {flex: 1; margin-left: 2.0rem;}
+
+.column__two__smallright {display: flex;}
+.column__two__smallright .column--left {flex: 2; margin-right: 2.0rem;}
+.column__two__smallright .column--right {flex: 1; margin-left: 2.0rem;}
+
+.column__two__smallleft {display: flex;}
+.column__two__smallleft .column--left {flex: 1; margin-right: 2.0rem;}
+.column__two__smallleft .column--right {flex: 2; margin-left: 2.0rem;}
+
+.column__three {display: flex;}
+.column__three .column--left {flex: 1;}
+.column__three .column--right {flex: 1;}
+.column__three .column--middle {flex: 1; margin: 0 2.0rem;}
+
+@media all and (max-width: 650px) {
+    .column img {text-align: center;}
+
+    .column__two, .column__two__smallright, .column__two__smallleft, .column__three {flex-direction: column;}
+    .column__two .column--left {margin-right: 0rem;}
+    .column__two .column--right {margin-left: 0rem; margin-top: 6.0rem;}
+
+    .column__two__smallright .column--left {margin-right: 0rem;}
+    .column__two__smallright .column--right {margin-left: 0rem; margin-top: 6.0rem;}
+
+    .column__two__smallleft .column--left {margin-right: 0rem;}
+    .column__two__smallleft .column--right {margin-left: 0rem; margin-top: 6.0rem;}
+
+    .column__three .column--middle {flex: 1; margin: 0;}
+}
+
+
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
