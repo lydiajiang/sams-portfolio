@@ -39,6 +39,7 @@ html {
 .column__two p:last-child, .column__two__smallleft p:last-child, .column__two__smallright p:last-child {margin-bottom: 0;}
 /* This prevents the last paragraph's spacing from interfering with spacing between column__containers. */
 .column p:first-child {margin-top: 0;}
+    .persona img {max-width: 15.0rem; display: block; margin: auto;}
 
 .column__one {}
 
