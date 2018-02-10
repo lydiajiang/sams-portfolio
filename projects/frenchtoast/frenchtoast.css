@@ -1,2 +1,2 @@
 /* --------- HEADLINE --------- */
-.headline {background: #D8D8D8 no-repeat top center; background-size: cover;}
+.headline {background: #D8D8D8 url("img/hero-image.jpg") no-repeat top center; background-size: cover;}
