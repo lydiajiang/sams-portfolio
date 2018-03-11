@@ -26,8 +26,16 @@ s {text-decoration: line-through; color: #9B9B9B;}
     .introduction__description {margin: 2.4rem 0;}
         .smallcontent {font-size: 2.4rem;}
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 800px) and (min-width: 501px;) {
     #introduction {margin: 1.6rem 14% 10%;}
+        #introduction h1 {font-size: 3.2rem;}
+        #introduction p {font-size: 3.0rem;}
+}
+
+@media all and (max-width: 500px) {
+    #introduction {margin: 1.6rem 14% 10%;}
+    #introduction h1 {font-size: 3.2rem;}
+    #introduction p {font-size: 2.6rem;}
 }
 
 /* --------- WORK --------- */
@@ -43,9 +51,18 @@ s {text-decoration: line-through; color: #9B9B9B;}
             .work__snippet h3 {font-weight: 100; letter-spacing: 0.1rem; font-size: 3.6rem; margin: 1.6rem 0;}
             .work__snippet p {font-size: 2.0rem; margin: 0; line-height: 3.2rem;}
 
+@media all and (max-width: 1000px) and (min-width: 801px) {
+    #work {margin: 0 5% 0; padding: 5.6rem;}
+}
+
 @media all and (max-width: 800px) {
-    #work {flex-direction: column; margin: 0 10% 0; padding: 5.6rem;}
-        .work__grid {margin: 0;}
+    #work {margin: 0 5% 0; padding: 5.6rem 0 0;}
+        .work__grid {margin: 2.4rem;}
+    .work__snippet p {font-size: 2.6rem;}
+}
+
+@media all and (max-width: 550px) {
+    #work {flex-direction: column; margin: 0 5% 0; padding: 5.6rem 0 0;}
 }
 
 /* --------- BUTTONS, LINKS --------- */
